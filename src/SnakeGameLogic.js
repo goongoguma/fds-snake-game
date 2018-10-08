@@ -74,7 +74,7 @@ SnakeGameLogic.prototype.nextState = function() {
     }
   }
 
-  return true;
+    return true;
 }
 
 export default SnakeGameLogic;
