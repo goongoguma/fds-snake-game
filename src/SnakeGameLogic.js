@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import {ROWS, COLS} from './config';
 
 // NOTE: ROWS, COLS에는 행의 개수, 열의 개수가 저장되어 있습니다.
